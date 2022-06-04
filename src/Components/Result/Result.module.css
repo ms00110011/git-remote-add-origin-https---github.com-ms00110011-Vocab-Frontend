@@ -1,0 +1,54 @@
+.ResultWrapper {
+    width:70%;
+    margin-left: auto;
+    margin-right: auto;
+    /* background-color: whitesmoke; */
+    height: 400px;
+    padding: 0;
+}
+
+.WordHero {
+    text-align: left;
+    padding-left: 20px;
+    border-bottom: 1px solid rgb(222, 222, 222);
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.CloseButton {
+    text-align: right;
+    padding: 20px;
+}
+
+.origin {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    color:rgb(185, 185, 185);
+    text-align: left;
+}
+
+.meaning {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    font-size: 15px;
+}
+
+.sentences {
+
+    width: 88%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    font-size: 13px;
+
+}
+
+.meaningWrapper {
+
+    border-bottom: 1px solid rgb(222, 222, 222);
+    
+}
